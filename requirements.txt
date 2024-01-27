@@ -1,0 +1,3 @@
+streamlit
+gradio_client
+openai

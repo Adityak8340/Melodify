@@ -1,0 +1,13 @@
+Instructions to run on Localhost:
+1. Install the required models
+pip install streamlit gradio_client openai
+2. open the terminal
+3. change the directory to project folder
+4. run the command: 
+streamlit run chatbot.py
+
+Instructions to run on web app
+open the link in your browser: 
+https://melody-app-lfthwrsnlmakifetdawpy8.streamlit.app/
+
+
